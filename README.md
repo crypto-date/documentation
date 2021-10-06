@@ -1,2 +1,2 @@
 # documentation
-Docs for the cryptodate system
+Docs for the Cryptodate system
