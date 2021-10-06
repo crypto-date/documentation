@@ -31,7 +31,6 @@ It brings the following innovations to the space:
 4. **Token Ids With Semantic Meaning**. The token id of the cryptodate is the date itself, requiring no external metadata for its intrinsic value.
 5. **Immutable and Mutable Metadata**. Cryptodates have both immutable and mutable metadata, creating a novel NFT minting system.  
 
-![Alt text](logo_med.png?raw=true "Logo")
 
 
 
