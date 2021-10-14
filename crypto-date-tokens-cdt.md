@@ -8,7 +8,7 @@ The cryptodate token \(CDT\) is an ERC20 compliant token for the purpose of gove
 * Rewards for staking CDT
 * Creating art for a set of dates
 
-See [Tokenomics](tokenomics.md) for exact token amount allocations.
+The token has been fair launched; all tokens are locked in smart contracts. See [Tokenomics](tokenomics.md) for exact token amount allocations.
 
 ## Minting Rewards
 

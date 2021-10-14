@@ -15,29 +15,22 @@ There are 100 years of NFTs available. Accounting for leap years, the total poss
 
 ### Price of Cryptodate NFTs
 
-The initial base price of a cryptodate will be .1 ETH/BNB. This base price may change as the market determines the floor. The current base price can always be found by querying the smart contract. Given this initial base price, the total initial value of cryptodates can be calculated:
-
-| Price | Supply | Value |  
-| :--- | :--- | :--- |
-| 10 ETH/BNB | 25 | 250 ETH/BNB |
-| 1 ETH/BNB | 1,200 | 1,200 ETH/BNB | 
-| .1 ETH/BNB | 35,300 | 3,530 ETH/BNB | 
-| **Total** | **36,525** | **4,980 ETH/BNB** | 
+The initial base price of a cryptodate will be set at launch. This base price may change as the market determines the floor. The current base price can always be found by querying the smart contract. 
 
 There is an ability to change the base price through governance. The long term plan is to fix the base price and renounce the ability to change it forever. 
 
-### Cryptodate Token \(CDT\) Distribution on Ethereum
+### Cryptodate Token \(CDT\) Distribution 
 
 The initial value of CDT will be set to mimic 1 USD. However, this is not a peg and fluctuate with supply/demand of cryptodates. 
 
-The distribution of CDT has been designed given the above initial price calculation such that sufficient CDT is locked in smart contracts for the purpose of minting rewards, ownership rewards and automated liquidity provisioning.
+CDT will be fair launched and all CDT tokens will be locked in smart contracts to be earned by users of the system. The distribution of CDT has been designed  such that sufficient CDT is available for the purpose of minting rewards, ownership rewards and automated liquidity provisioning.
 
 | Purpose | Number of Tokens | Percent | Location | Comment |
 | :--- | :--- | :--- | :--- |  :--- |
 | Minting & Ownership Rewards | 12,000,000 | 40% | Locked in NFT smart contract | Sufficient for minting rewards and ownership rewards of 100 CDT per NFT for 3 years.  |
-| Automated Liquidity Provisioning | 6,000,000 | 20% | Locked in NFT smart contract | Sufficient to supply AMM upon minting NFTs. |
+| Automated Liquidity Provisioning | 6,000,000 | 20% | Locked in NFT smart contract | Sufficient to supply AMM liquidity pool upon minting NFTs. |
 | Staking & Liquidity Rewards | 6,000,000 | 20% | Locked in staking smart contracts | Sufficient for multiple reward periods to incentivize holding CDT. |
-| Commissions, Marketing, Operations| 6,000,000 | 20% | Held by treasury | Allocated to spend on art through community commissions, marketing and operational costs. |
+| CDT AMM Liquidity Pool | 6,000,000 | 20% | Locked in AMM smart contract | Sufficient to provide liquidity for CDT trading. |
 | **Total** | **30,000,000** | **100%** |  |  | |
 
 

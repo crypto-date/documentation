@@ -27,7 +27,7 @@ Whenever a cryptodate is minted by a collector, the buyer is immediately rewarde
 
 ## Cryptodate Ownership Rewards
 
-Cryptodates have the unique property of earning CDT simply by owning them. This yield is set as a fixed interest rate of 100 CDT per cryptodate per year. This rate cannot fluctuate and is baked into the smart contract. The smart contract is funded to provide this fixed rate for 3 years.
+Cryptodates have the unique property of earning CDT simply by owning them. This yield is set as a fixed interest rate of 100 CDT per cryptodate per year. This rate cannot fluctuate and is baked into the smart contract. The smart contract is funded to provide this fixed rate for 3 years. Rewards could run longer if not all cryptodates are minted within the first year.
 
 If a person relinquishes ownership of a cryptodate by gifting or selling that date, the interest accrued on that date up to the moment of transfer is still held by the original owner. As such, one doesn't have to remember to claim the interest on a date before selling it.
 
