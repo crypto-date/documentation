@@ -7,6 +7,7 @@
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
 * [Smart Contracts](smart-contracts.md)
+* [Roadmap](roadmap.md)
 
  <a name="intro"></a> 
 # Introduction
