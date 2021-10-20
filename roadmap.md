@@ -1,8 +1,10 @@
 # Roadmap
 
 ## Fall 2021
-* Commission initial art for custom holidays (Halloween, Day of the Dead, Guy Fawkes Day, Winter Solstice)
-* Commission three dynamic svg templates for remaining dates 
+* Commission exclusive leap day art 
+* Commission zodiac art for limit edition NFTs 
+* Commission initial art for holidays 
+* Commission dynamic svg templates 
 * Public beta (Ethereum, Polygon and BSC)
 * Launch of smart contracts to production blockchains (Ethereum, Polygon and BSC)
 * Launch of production dapp at https://www.cryptodate.io

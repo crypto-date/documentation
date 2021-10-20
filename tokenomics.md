@@ -23,14 +23,15 @@ There is an ability to change the base price through governance. The long term p
 
 The initial value of CDT will be set to mimic 1 USD. However, this is not a peg and fluctuate with supply/demand of cryptodates. 
 
-CDT will be fair launched and all CDT tokens will be locked in smart contracts to be earned by users of the system. The distribution of CDT has been designed  such that sufficient CDT is available for the purpose of minting rewards, ownership rewards and automated liquidity provisioning.
+CDT will be fair launched and the 90% of CDT tokens will be locked in smart contracts to be earned by users of the system. The distribution of CDT has been designed such that sufficient CDT is available for the purpose of minting rewards, ownership rewards and liquidity provisioning.
 
 | Purpose | Number of Tokens | Percent | Location | Comment |
 | :--- | :--- | :--- | :--- |  :--- |
 | Minting & Ownership Rewards | 12,000,000 | 40% | Locked in NFT smart contract | Sufficient for minting rewards and ownership rewards of 100 CDT per NFT for 3 years.  |
-| Automated Liquidity Provisioning | 6,000,000 | 20% | Locked in NFT smart contract | Sufficient to supply AMM liquidity pool upon minting NFTs. |
+| Liquidity Provisioning | 6,000,000 | 20% | Locked in NFT smart contract | Sufficient to supply AMM liquidity pool upon minting NFTs. |
 | Staking & Liquidity Rewards | 6,000,000 | 20% | Locked in staking smart contracts | Sufficient for multiple reward periods to incentivize holding CDT. |
-| CDT AMM Liquidity Pool | 6,000,000 | 20% | Locked in AMM smart contract | Sufficient to provide liquidity for CDT trading. |
+| CDT AMM Liquidity Pool | 3,000,000 | 10% | Locked in AMM smart contract | Sufficient to provide liquidity for CDT trading. |
+| Art Fund | 3,000,000 | 10% | Treasury | Used to commission more art. |
 | **Total** | **30,000,000** | **100%** |  |  | |
 
 

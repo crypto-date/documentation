@@ -25,10 +25,8 @@ The system is a set of intertwined smart contracts:
 It brings the following innovations to the space:
 
 1. **Fixed Rate, Yield Bearing NFTs.**   Each cryptodate generates yield for its owner as a fixed return of CDT. 
-2. **Automated Liquidity Provisioning Through NFT Sales.** 50% of each NFT sale goes directly into a liquidity pool, increasing the value of CDT.
-3. **Community Driven Commissioning Of Art**. CDT is a utility and governance token used to fund artists through community driven commissions.
-4. **Token Ids With Semantic Meaning**. The token id of the cryptodate is the date itself, requiring no external metadata for its intrinsic value.
-5. **Immutable and Mutable Metadata**. Cryptodates have both immutable and mutable metadata, creating a novel NFT minting system.  
+1. **Liquidity Provisioning Through NFT Sales.** 50% of each NFT sale goes directly into a liquidity pool, increasing the value of CDT.
+1. **Token Ids With Semantic Meaning**. The token id of the cryptodate is the date itself, requiring no external metadata for its intrinsic value. The date is represented on chain.
 
 
 

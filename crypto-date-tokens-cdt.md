@@ -22,7 +22,7 @@ Cryptodates have the unique property of earning CDT simply by owning them. This 
 
 ## Liquidity Provider Rewards
 
-If a person adds liquidity to the ETH/CDT liquidity pool (either on Uniswap v2 or Pancakeswap), he/she can earn rewards by staking those LP tokens.  Adding liquidity incurs the standard risks of impermanent loss that all pools incur. Since the smart contract itself uses the pool, there are guaranteed fees generated from the pool.
+If a person adds liquidity to the ETH/CDT liquidity pool (either on Uniswap v2 or Pancakeswap), he/she can earn rewards by staking those LP tokens.  Adding liquidity incurs the standard risks of impermanent loss that all pools incur. 
 
 ## Staking Rewards
 

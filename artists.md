@@ -4,7 +4,9 @@ The token id of most NFT projects has no semantic value. It simply creates a uni
 
 The cryptodate system is different. The token id has semantic meaning: it is the date that the user is buying. As such, owning a cryptodate means you own the data on-chain and that date is immutable. 
 
-The cryptodate NFT smart contract does support off-chain metadata.  Each cryptodate NFT points to a tokenURI. The metadata discovered in that tokenURI includes a link to an image stored on a server. By default, all cryptodates have dynamic art generated as an .svg. But, the link to that default image can be updated to point to a different image. In this way, an artist can create new art for a token id **before** the NFT is minted, overriding the default .svg image. The location of where that art is stored could be updated to IPFS. Additionally, an owner of an NFT can create new art for a token id **after** the NFT is minted, through a process using cryptographic signatures and spending CDT utility tokens.
+The cryptodate NFT smart contract does support off-chain metadata.  Each cryptodate NFT points to a tokenURI. The metadata discovered in that tokenURI includes a link to an image stored on a server. By default, all cryptodates have dynamic art generated as an .svg. But, the link to that default image can be updated to point to a different image. 
+
+In this way, an artist can create new art for a token id **before** the NFT is minted, overriding the default .svg image. Additionally, an owner of an NFT can create new art for a token id **after** the NFT is minted, through a process using cryptographic signatures and spending CDT utility tokens.
 
 This novel minting system uniquely takes advantage of the ERC721 specification by combining the best of mutable and immutable data. 
 
@@ -14,11 +16,7 @@ An artist could be commissioned to create a piece for a token id, say January 1,
 
 ### Example 2
 
-An collector could mint their birthday, say April 21, 1996 or **19960421**. They could then cryptographically validate that they are the owner of that date and update the metadata reference to point to the new art created.
-
-## Requirements
-
-Art **does not** have to be associated with dates, although it can be. While the token id has semantic meaning, the art connected to that token id can be anything.
+An collector could mint his/her child's birthday, say April 21, 1996 or **19960421**. He/she could then cryptographically validate that they are the owner of that date and upload a painting of their child to a public url. He/she could then spend CDT tokens for the privilege of updating the metadata for that token to the new image URL.
 
 ## Commission Process
 
@@ -26,5 +24,5 @@ If an artist is interested in designing a piece for the cryptodate system, they 
 
 ## Updating Metadata After Minting
 
-Contact the cryptodate team if interested in this workflow.
+See the roadmap for when this will be available.
 
