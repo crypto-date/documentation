@@ -13,7 +13,9 @@
 ## Winter 2021
 * Implement club system for different clubs based on ownership of specific dates
 * Commission more art 
+* Explore generative art recipes
 
 ## Spring 2022
 * Implement system for allowing owners of an NFT to override default art
 * Add ancillary smart contracts for issuing packs and providing other incentives to club members
+* Transition all assets to IFPS or similar decentralized servers
