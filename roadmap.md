@@ -18,4 +18,4 @@
 ## Spring 2022
 * Implement system for allowing owners of an NFT to override default art
 * Add ancillary smart contracts for issuing packs and providing other incentives to club members
-* Transition all assets to IFPS or similar decentralized servers
+* Transition all assets to IPFS or similar decentralized servers
