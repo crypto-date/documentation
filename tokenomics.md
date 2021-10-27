@@ -8,8 +8,7 @@ There are 100 years of NFTs available. Accounting for leap years, the total poss
 
 | Type | Price | Supply | Formula | Comment |
 | :--- | :--- |  :--- | :--- | :--- |
-| Exclusive | Base Price * 100 | 25 | Each leap day | The 29th day of each leap year, e.g. Feb 29 2000 |
-| Limited | Base Price * 10  | 1,200 | Each day that matches month | When the number of the day and month match, e.g. Mar 3, April 4, etc. |
+| Limited | Base Price * 10  | 1,225 | Each day that matches month plus leap days | When the number of the day and month match, e.g. Mar 3, April 4, etc. |
 | Standard | Base Price | 35,300 | All remaining days | From Jan 1 1950 to Dec 31 2049, excluding the dates above |
 | **Total** |  | **36,525** | **All days** | **From Jan 1 1950 to Dec 31 2049** |
 

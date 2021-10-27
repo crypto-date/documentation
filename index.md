@@ -14,6 +14,8 @@
 
 The [cryptodate system](https://www.cryptodate.io) combines existing blockchain primitives (ERC721, ERC20, automated market makers & staking rewards) to create a self-sufficient system that provides value for artists, investors and collectors. 
 
+Cryptodates are novel nfts. Each date from 1950 to 2049 is an on chain NFT, represented by unique artwork. Owning dates grants access to exclusive clubs. Additionally, owning dates earns fixed yield in the form of CDT tokens. CDT is governance token used to commission art for cryptodates and vote on other proposals of the system. Cryptodates have on chain data -- the token id is the date itself -- as well as off chain data in the form of art. 
+
 The system is a set of intertwined smart contracts:
 
 1. An ERC721-compliant smart contract for minting NFTs 
