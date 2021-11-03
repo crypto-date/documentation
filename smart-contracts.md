@@ -8,6 +8,11 @@ Source code including all unit tests can be found on the [Cryptodate Contracts G
 
 All contracts have been verified.
 
+## Ethereum (ETH)
+Cryptodate NFT  
+* [0x13793e8c72f81999fdc89f2731c9a4c895AaC2De](https://www.etherscan.com/address/0x13793e8c72f81999fdc89f2731c9a4c895AaC2De) 
+
+Note: CDT and ancillary smart contracts not deployed to ethereum yet. See roadmap.
 
 ## Binance Smart Chain (BSC)
 Cryptodate NFT  
