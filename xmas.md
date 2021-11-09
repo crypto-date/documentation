@@ -59,6 +59,7 @@ Once the traits are determined, Imagemagick is used to layer the transparent PNG
 ```javascript 
 
             const args = `convert -background "#${color}"  traits/Base.png ${traits} -flatten -bordercolor "black" -border 20 trees/${network}/${date.getFullYear()}1225.png`;
+            
 ```
 
 
