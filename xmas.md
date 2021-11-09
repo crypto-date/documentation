@@ -1,4 +1,4 @@
- # Christmas Tree Generative Art Collection #
+# Christmas Tree Generative Art Collection #
 
  The Cryptodate Christmas tree collection represents each Christmas Day from 1950 - 2049 as a unique PNG image of a generated Christmas tree. The collections can be found here:
 
