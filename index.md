@@ -3,6 +3,8 @@
 * [Introduction](#intro)
 * [Cryptodate NFTs](crypto-date-nfts-cd.md)
 * [Cryptodate Tokens \(CDT\)](crypto-date-tokens-cdt.md)
+* [Collections](collections.md)
+    * [Christmas Tree Generative Art](xmas.md)
 * [Minting Platform](artists.md)
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
