@@ -1,10 +1,13 @@
 # Christmas Tree Generative Art Collection #
 
- The Cryptodate Christmas tree collection represents each Christmas Day from 1950 - 2049 as a unique PNG image of a generated Christmas tree. The collections can be found here:
+ The Cryptodate Christmas tree collection represents each Christmas Day from 1950 - 2049 as a unique PNG image of a generated Christmas tree. The collections can be seen here:
 
 * [Ethereum](https://www.cryptodate.io/eth/collection/xmas_tree)
 * [BSC](https://www.cryptodate.io/bsc/collection/xmas_tree)
 * [Polygon](https://www.cryptodate.io/polygon/collection/xmas_tree)
+* [Avalanche](https://www.cryptodate.io/avax/collection/xmas_tree)
+* [Fantom](https://www.cryptodate.io/fantom/collection/xmas_tree)
+* [Moon River](https://www.cryptodate.io/movr/collection/xmas_tree)
 
  
  To generate the image, Christmas tree "DNA", stored on chain, is used to determine how the tree looks. Each tree has a unique background color and the following possible traits:
@@ -15,7 +18,7 @@
  * Ornaments
  * Lights
 
-The "recipe" for generating a tree is explained below. Thus, each tree can be rebuilt, Sol de Witt style. 
+The "recipe" for generating a tree is explained below. Thus, each tree can be rebuilt, Sol LeWitt style. 
 
 ## DNA ##
 
@@ -59,12 +62,12 @@ Once the traits are determined, Imagemagick is used to layer the transparent PNG
 ```javascript 
 
             const args = `convert -background "#${color}"  traits/Base.png ${traits} -flatten -bordercolor "black" -border 20 trees/${network}/${date.getFullYear()}1225.png`;
-            
+
 ```
 
 
 ## Assets ##
 All assets for generating the trees can be downloaded here:
 
-![Alt text](https://assets.cryptodate.io/eth/dynamic/19701225.png "Logo")
+![Alt text](https://assets.cryptodate.io/eth/dynamic/19701225.png "Logo" )
 
