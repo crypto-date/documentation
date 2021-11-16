@@ -5,6 +5,7 @@
 * [Cryptodate Tokens \(CDT\)](crypto-date-tokens-cdt.md)
 * [Collections](collections.md)
     * [Christmas Tree Generative Art](xmas.md)
+    * [Crypto Pupper Generative Art](pupper.md)
 * [Minting Platform](artists.md)
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
