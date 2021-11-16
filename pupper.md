@@ -22,7 +22,7 @@ The "recipe" for generating a pupper is explained below. Thus, each pupper can b
 
 ## DNA ##
 
-A tree's DNA is formulated by taking the token id of the tree (aka **19500323**) plus the network the tree was minted (aka **eth**) and creating its MD5 hash. (The token id is always on January 7th.) 
+A tree's DNA is formulated by taking the token id of the tree (aka **19500323**) plus the network the tree was minted (aka **eth**) and creating its MD5 hash. (The token id is always on March 23rd.) 
 
 In Javascript, the code looks like this  although any programming language will make the same DNA:
 
