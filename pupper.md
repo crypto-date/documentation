@@ -27,7 +27,7 @@ A tree's DNA is formulated by taking the token id of the tree (aka **19500323**)
 In Javascript, the code looks like this  although any programming language will make the same DNA:
 
 ``` javascript
-const dna = md5("19500107_eth");
+const dna = md5("19500323_eth");
 
 ```
 
