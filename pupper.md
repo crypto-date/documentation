@@ -22,7 +22,7 @@ The "recipe" for generating a pupper is explained below. Thus, each pupper can b
 
 ## DNA ##
 
-A tree's DNA is formulated by taking the token id of the tree (aka **19500107**) plus the network the tree was minted (aka **eth**) and creating its MD5 hash. (The token id is always on January 7th.) 
+A tree's DNA is formulated by taking the token id of the tree (aka **19500323**) plus the network the tree was minted (aka **eth**) and creating its MD5 hash. (The token id is always on January 7th.) 
 
 In Javascript, the code looks like this  although any programming language will make the same DNA:
 
@@ -31,7 +31,7 @@ const dna = md5("19500107_eth");
 
 ```
 
-For example, MD5 hash of **19500107_eth** is **dd9eb6bfc1e964d169c17c35ea956a6d**. We now have the dog's DNA. 
+For example, MD5 hash of **19500323_eth** is **13ec293c4dae36c500f4a8d64351d5d7**. We now have the dog's DNA. 
 
 Only the first 6 characters of the DNA is used:
 
@@ -45,5 +45,5 @@ Only the first 6 characters of the DNA is used:
 As such, certain combinations are more rare and a pupper with all or no traits is very uncommon!
 
 
-![Alt text](https://assets.cryptodate.io/bsc/pupper/19830107.png "Logo")
+![Alt text](https://assets.cryptodate.io/avax/pupper/19830323.png "Logo")
 
