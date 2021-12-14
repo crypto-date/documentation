@@ -32,19 +32,19 @@ CDT Staking Rewards
 
 ## Polygon (MATIC)
 Cryptodate NFT  
-* [0xA5c4C04DAa2Ef87BFb34A064c0bc1f92C851d843](https://www.polygonscan.com/address/0xA5c4C04DAa2Ef87BFb34A064c0bc1f92C851d843) 
+* [0xA5c4C04DAa2Ef87BFb34A064c0bc1f92C851d843](https://polygonscan.com/address/0xA5c4C04DAa2Ef87BFb34A064c0bc1f92C851d843) 
 
 Cryptodate Token (CDT)  
-* [0x31989E0c6787c3F6781427BDE1A7b9A03B9a544D](https://www.polygonscan.com/address/0x31989E0c6787c3F6781427BDE1A7b9A03B9a544D) 
+* [0x31989E0c6787c3F6781427BDE1A7b9A03B9a544D](https://polygonscan.com/address/0x31989E0c6787c3F6781427BDE1A7b9A03B9a544D) 
 
 CDT Liquidity Pool  
-* [0x0d4de7f6de67fa12e9e3f5fc96248c1fc56aa4ac](https://www.polygonscan.com/address/0x0d4de7f6de67fa12e9e3f5fc96248c1fc56aa4ac) 
+* [0x0d4de7f6de67fa12e9e3f5fc96248c1fc56aa4ac](https://polygonscan.com/address/0x0d4de7f6de67fa12e9e3f5fc96248c1fc56aa4ac) 
 
 LP Token Staking Rewards  
-* [0xCB0a5f4521CD906D796f774633A56D75B855964e](https://www.polygonscan.com/address/0xCB0a5f4521CD906D796f774633A56D75B855964e) 
+* [0xCB0a5f4521CD906D796f774633A56D75B855964e](https://polygonscan.com/address/0xCB0a5f4521CD906D796f774633A56D75B855964e) 
 
 CDT Staking Rewards  
-* [0x05c32EcF83a99b4EF7A252b944a0327702d2De35](https://www.polygonscan.com/address/0x05c32EcF83a99b4EF7A252b944a0327702d2De35) 
+* [0x05c32EcF83a99b4EF7A252b944a0327702d2De35](https://polygonscan.com/address/0x05c32EcF83a99b4EF7A252b944a0327702d2De35) 
 
 ## Avalanche (AVAX)
 Cryptodate NFT  
